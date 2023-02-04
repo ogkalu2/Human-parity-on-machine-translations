@@ -1,4 +1,4 @@
-# Human-level-parity-on-machine-translations
+# Human-parity-on-machine-translations
 
 Traditional Machine Learning techniques for tackling translation have seen big State of the art improvements in the last few years. However, they still struggle with languages that are far apart on the language family tree. For example, English and Chinese/Korean/Japanese.
 
