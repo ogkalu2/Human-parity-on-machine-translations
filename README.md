@@ -11,7 +11,7 @@ Demo available here - https://huggingface.co/spaces/THUDM/GLM-130B
 Because GLM-130B isn't Instruction-finetuned, a few-shot or one-shot prompting strategy for translations is required. 
 In preliminary tests, I notice some correlation in the complexity and quality of translations with the complexity and quality of few shot examples. As a result, my one-shot prompt includes a short passage and a corresponding translation from a Chinese book translated and published in English. 
 
-# My One-shot prompt for GLM-130B
+My One-shot prompt for GLM-130B
 ```bash
 Chinese: 同北京许许多多同龄的老市民一样，薛大娘现在绝不是一个真正迷信的人，她知道迷信归根结蒂都是瞎掰，遇上听人讲述哪里有个老太太信神信鬼闹出乱子，她还会真诚地拍著大腿笑著说几句嘲讽的话；但她又同许许多多同龄的老市民一样，内心还揣著个求吉利的想法。
 
