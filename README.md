@@ -4,7 +4,9 @@ Traditional Machine Learning techniques for tackling translation have seen big S
 
 Because of the nature of why these models struggle with these tasks (inability to extrapolate context, wildly mismatched grammar etc), I wondered how a pretrained large language model (LLM) at sufficient scale trained on multilingual corpora would perform. Could a bilingual LLM approximate a bilingual human on translation tasks?
 
-The first step of course was choosing a model for testing. There are very few bilingual or multilingual models that are both trained at sufficient scale and have equal or near equal training data representation for the two languages in question. I thank the team at THUDM for training and releasing GLM-130B, a bilingual LLM trained on 200 billion tokens each of English and Chinese (400b total). (https://github.com/THUDM/GLM-130B). This is the main model used for testing. 
+The first step of course was choosing a model for testing. There are very few bilingual or multilingual models that are both trained at sufficient scale and have equal or near equal training data representation for the two languages in question. I thank the team at THUDM for training and releasing GLM-130B, a bilingual LLM trained on 200 billion tokens each of English and Chinese (400b total). (https://github.com/THUDM/GLM-130B). 
+
+This is the main model used for testing. 
 Demo available here - https://huggingface.co/spaces/THUDM/GLM-130B
 Because GLM-130B isn't Instruction-finetuned, a few-shot or one-shot prompting strategy for translations is required. 
 In preliminary tests, I notice some correlation in the complexity and quality of translations with the complexity and quality of few shot examples. As a result, my one-shot prompt includes a short passage and a corresponding translation from a Chinese book translated and published in English. 
