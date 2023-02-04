@@ -29,7 +29,27 @@ Open AI's GPT models are multilingual with an extreme English bias (~92.6% Engli
 
 No Language Left Behind, NLLB-200 from Meta achieved State of the Art Results on machine translation benchmarks and is also compared. 
 
-For my tests, I pick Literature, an especially difficult domain for machine translation. 20 passages translated with GLM-130B and compared with Deepl, Google Translate, chatGPT and NLLB-200-1.3b-distilled. The passages are sampled from 5 novels. The Wedding Party by Liu Xinwu, Strange Beasts of China by Yan Ge, The Amber Sword by Fei YanFu, Wolf Totem by Jiang Rong and SuperGene.
-The passages are chosen at random. They are not cherrypicked or regenerated. I present 5 passage comparisons here in the README and the rest in the document uploaded.
+For my tests, I pick Literature, an especially difficult domain for machine translation. 21 passages translated with GLM-130B and compared with Deepl, Google Translate, chatGPT and NLLB-200-1.3b-distilled. The passages are sampled from 5 novels. The Wedding Party by Liu Xinwu, Strange Beasts of China by Yan Ge, The Amber Sword by Fei YanFu, Wolf Totem by Jiang Rong and SuperGene.
+The passages are chosen at random. They are not cherrypicked or regenerated. 
 
 ![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide1.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide4.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide5.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide6.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide10.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide11.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide15.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide16.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide20.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide19.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide21.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide2.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide7.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide8.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide12.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide13.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide17.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide18.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide3.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide9.PNG)
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/comp_files/Slide14.PNG)
