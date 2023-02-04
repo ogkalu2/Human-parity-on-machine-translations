@@ -32,4 +32,4 @@ No Language Left Behind, NLLB-200 from Meta achieved State of the Art Results on
 For my tests, I pick Literature, an especially difficult domain for machine translation. 20 passages translated with GLM-130B and compared with Deepl, Google Translate, chatGPT and NLLB-200-1.3b-distilled. The passages are sampled from 5 novels. The Wedding Party by Liu Xinwu, Strange Beasts of China by Yan Ge, The Amber Sword by Fei YanFu, Wolf Totem by Jiang Rong and SuperGene.
 The passages are chosen at random. They are not cherrypicked or regenerated. I present 5 passage comparisons here in the README and the rest in the document uploaded.
 
-![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/Slide1.PNG
+![Model](https://github.com/ogkalu2/Human-parity-on-machine-translations/blob/main/Slide1.PNG)
